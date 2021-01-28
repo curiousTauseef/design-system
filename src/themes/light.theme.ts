@@ -18,9 +18,9 @@ const theme: DefaultTheme = {
 		backgroundColor: colors.gray0,
 
 		buttonPrimaryColor: colors.gray0,
-		buttonPrimaryBackgroundColor: colors.deepBlue500,
-		buttonPrimaryHoverBackgroundColor: colors.deepBlue600,
-		buttonPrimaryActiveBackgroundColor: colors.deepBlue700,
+		buttonPrimaryBackgroundColor: colors.lochmara500,
+		buttonPrimaryHoverBackgroundColor: colors.lochmara600,
+		buttonPrimaryActiveBackgroundColor: colors.lochmara700,
 
 		buttonDestructiveBackgroundColor: colors.coral600,
 		buttonDestructiveHoverBackgroundColor: colors.coral700,
